@@ -6,6 +6,6 @@ public class WC23 {
 	{
 		 System.out.println("HEllo ABD");
 		 System.out.println("HEllo System.out.println(\"HEllo ABD\");");
-		
+		System.out.println("Hello Virat");
 	}
 }
